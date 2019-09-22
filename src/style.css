@@ -1,0 +1,20 @@
+*,*::before,*::after{
+    box-sizing:border-box;
+    padding:0;
+ }
+ html,body{
+    height: 100%;
+    width: auto;
+    background-color: rgb(53, 147, 224);
+  
+  }
+ html{
+   font-size:10px;	
+ }
+ body{
+   font-size:1.6rem;
+ }
+
+ .weaterDescription{
+ align-content: center;
+}
